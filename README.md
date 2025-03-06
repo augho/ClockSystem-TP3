@@ -1,6 +1,8 @@
 ![Build Status](https://github.com/augho/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg)
 ![Code Quality Analysis](https://github.com/augho/ClockSystem-TP3/actions/workflows/pmd.yml/badge.svg)
 ![Security Analysis](https://github.com/augho/ClockSystem-TP3/actions/workflows/codeql.yml/badge.svg)
+![Score Card](https://github.com/augho/ClockSystem-TP3/actions/workflows/scorecard.yml/badge.svg)
+
 
 
 # ClockSystem
